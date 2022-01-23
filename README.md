@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LisandroFilloy
-- 👀 I’m interested in systems designs and Machine learning. 
-- 🌱 I’m currently studying a computer science master degree and working as a data/Machine learning engineer at a company that prevent's fraud transactions using neural networks.
+- 👀 I’m interested in systems full stack developement projects.
 - 📫 How to reach me: you can email me to lisandrofilloy@gmail.com
 
 <!---
