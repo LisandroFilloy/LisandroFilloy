@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LisandroFilloy
-- 👀 I’m interested in systems full stack developement projects.
+- 👀 I’m interested in full stack developement projects.
 - 📫 How to reach me: you can email me to lisandrofilloy@gmail.com
 
 <!---
