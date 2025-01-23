@@ -1,8 +1,3 @@
 - 👋 Hi, I’m @LisandroFilloy
-- 👀 I’m interested in full stack developement projects.
-- 📫 How to reach me: you can email me to lisandrofilloy@gmail.com
-
-<!---
-LisandroFilloy/LisandroFilloy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in full stack development projects.
+- 📫 How to reach me: you can email me at [lisandrofilloy@gmail.com](mailto:lisandrofilloy@gmail.com) or write to me on [LinkedIn](https://www.linkedin.com/in/lisandro-filloy/).
